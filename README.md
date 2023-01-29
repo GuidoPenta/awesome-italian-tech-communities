@@ -9,5 +9,7 @@ HR feat. ICT (by Lavoro Digitale italia) - https://t.me/c/1358339086
 
 Il salotto dei programmatori (by Lorenzo Casponi) - https://t.me/salottoprogrammatori
 
-Gitbar Podcast (by Mauro Murru ) - @gitbar
+We are Dev (by Fabio Biondi) - https://t.me/we_are_devs
+
+Gitbar Podcast (by Mauro Murru ) - https://t.me/gitbar
 
