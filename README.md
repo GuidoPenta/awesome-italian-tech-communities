@@ -11,7 +11,7 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
 
-* [Gitbar Podcast (by Mauro Murru](https://t.me/gitbar)
+* [Gitbar Podcast (by Mauro Murru)](https://t.me/gitbar)
 
 ## YouTube / Twitch
 
