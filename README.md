@@ -21,6 +21,8 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [Python Italia](https://t.me/pythonita)
 
+* [Nim Italia](https://t.me/nimitalia)
+
 ## Podcast
 
 * [Schrödinger Hat](https://www.schrodinger-hat.it/)
