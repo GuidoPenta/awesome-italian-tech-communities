@@ -23,6 +23,8 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [Nim Italia](https://t.me/nimitalia)
 
+* [Programmazione italia](https://t.me/programmazioneitalia)
+
 ## Podcast
 
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
