@@ -35,6 +35,8 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [Schrödinger Hat](https://www.schrodinger-hat.it/)
 
+* [PointerPodcast](https://pointerpodcast.it/)
+
 ## YouTube 
 
 * [Fabio Biondi | Youtube | FrontEnd Tutorials](https://www.youtube.com/c/FabioBiondi)
