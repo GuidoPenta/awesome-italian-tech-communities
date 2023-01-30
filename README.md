@@ -76,3 +76,5 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [PtkDev (by Patryk RzucidIo)](http://discord.ptkdev.io/)
 
 * [Schrodinger's Hat - Open Source Developers community](https://discord.gg/RTXr8A3eFn)
+
+* [Ripsters (mr. RIP)](https://mr.rip/discord)
