@@ -1,6 +1,8 @@
 # Italian tech communities
 Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech itaiano. _Enjoy!_
 
+## INDEX
+
 ## GRUPPI TELEGRAM 
 
 * [Open Source Support (by Patryk RzucidIo)](https://t.me/ptkdev_support_italian)
