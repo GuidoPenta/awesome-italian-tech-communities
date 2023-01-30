@@ -52,3 +52,5 @@ Un repo dove trovare le tech communities in lingua italiana
 * [Community ItalianCoders](https://s.italiancoders.it/discord)
 
 * [PtkDev (by Patryk RzucidIo)](http://discord.ptkdev.io/)
+
+* [Schrodinger's Hat - Open Source Developers community](https://discord.gg/RTXr8A3eFn)
