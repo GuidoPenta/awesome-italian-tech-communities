@@ -27,6 +27,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Flutter Italia Developers](https://t.me/flutteritdevs)
 
+* [Fullstackish!](https://t.me/tomorrowdevs_group)
+
 ## Podcast
 
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
@@ -36,6 +38,10 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Schrödinger Hat](https://www.schrodinger-hat.it/)
 
 * [PointerPodcast](https://pointerpodcast.it/)
+
+* [Storie di Developers](https://open.spotify.com/show/5rDJu3qScB9YR5yZtgjm62?si=c189ddf7f1074756)
+
+* [La Gilda dei DEVulgatori (Playlist)](https://open.spotify.com/playlist/1sJvhXyU3Tux4F2cMIxb44?si=df9fb2efba3a44f0)
 
 ## YouTube 
 
@@ -47,6 +53,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [@sensorario](https://www.youtube.com/@sensorario)
 
+* [TomorrowDevs](https://youtube.com/tomorrowdevs)
+
 ## Twitch
 
 * [Fabio Biondi | Twitch | FrontEnd Channel](https://www.twitch.tv/fabio_biondi)
@@ -56,6 +64,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 ## Instagram
 
 * [DevelopersLife](https://www.instagram.com/developerslifechannel/)
+
+* [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
 
 ## Discord
 
