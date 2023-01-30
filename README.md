@@ -1,5 +1,5 @@
 # Italian tech communities
-Un repo dove trovare le tech communities in lingua italiana
+Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech itaiano. _Enjoy!_
 
 ## GRUPPI TELEGRAM 
 
