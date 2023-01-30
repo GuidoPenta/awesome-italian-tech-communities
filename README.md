@@ -33,6 +33,8 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [NonCompila](https://www.youtube.com/@noncompila)
 
+* [@sensorario](https://www.youtube.com/@sensorario)
+
 ## Twitch
 
 * [Fabio Biondi | Twitch | FrontEnd Channel](https://www.twitch.tv/fabio_biondi)
