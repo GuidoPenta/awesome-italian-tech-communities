@@ -17,6 +17,10 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [ItalianCoders](https://t.me/italiancoders_community)
 
+* [Rabbit Mq Ita](https://t.me/RabbitMQ_ita)
+
+* [Python Italia](https://t.me/pythonita)
+
 ## Podcast
 
 * [Schrödinger Hat](https://www.schrodinger-hat.it/)
@@ -44,3 +48,5 @@ Un repo dove trovare le tech communities in lingua italiana
 * [Italian Coders Group](https://top.gg/servers/500396398324350989/join)
 
 * [Community ItalianCoders](https://s.italiancoders.it/discord)
+
+* [PtkDev (by Patryk RzucidIo)](http://discord.ptkdev.io/)
