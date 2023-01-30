@@ -25,6 +25,10 @@ Un repo dove trovare le tech communities in lingua italiana
 
 ## Podcast
 
+* [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
+
+* [gitbar](https://www.gitbar.it/)
+
 * [Schrödinger Hat](https://www.schrodinger-hat.it/)
 
 ## YouTube 
