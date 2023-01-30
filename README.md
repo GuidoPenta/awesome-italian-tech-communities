@@ -47,6 +47,10 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [La Gilda dei DEVulgatori (Playlist)](https://open.spotify.com/playlist/1sJvhXyU3Tux4F2cMIxb44?si=df9fb2efba3a44f0)
 
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## YouTube 
 
 * [Fabio Biondi | Youtube | FrontEnd Tutorials](https://www.youtube.com/c/FabioBiondi)
