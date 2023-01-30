@@ -25,6 +25,8 @@ Un repo dove trovare le tech communities in lingua italiana
 
 * [Programmazione italia](https://t.me/programmazioneitalia)
 
+* [Flutter Italia Developers](https://t.me/flutteritdevs)
+
 ## Podcast
 
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
