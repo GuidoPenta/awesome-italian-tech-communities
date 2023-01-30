@@ -65,17 +65,29 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [TomorrowDevs](https://youtube.com/tomorrowdevs)
 
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## Twitch
 
 * [Fabio Biondi | Twitch | FrontEnd Channel](https://www.twitch.tv/fabio_biondi)
 
 * [NonCompila](https://www.twitch.tv/noncompila)
 
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## Instagram
 
 * [DevelopersLife](https://www.instagram.com/developerslifechannel/)
 
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 ## Discord
 
@@ -88,3 +100,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Schrodinger's Hat - Open Source Developers community](https://discord.gg/RTXr8A3eFn)
 
 * [Ripsters (mr. RIP)](https://mr.rip/discord)
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
