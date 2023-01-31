@@ -103,6 +103,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## Discord
 
+* [DevHub Italia | Informatica](https://discord.gg/e4KbstNqtk)
+
 * [Italian Coders Group](https://top.gg/servers/500396398324350989/join)
 
 * [Community ItalianCoders](https://s.italiancoders.it/discord)
