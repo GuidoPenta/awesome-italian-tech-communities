@@ -1,5 +1,5 @@
 # Italian tech communities
-Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech itaiano. _Enjoy!_
+Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech italiano. _Enjoy!_
 
 ## INDEX
 
