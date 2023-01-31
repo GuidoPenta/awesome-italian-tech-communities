@@ -3,7 +3,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## INDEX
 
-## GRUPPI TELEGRAM 
+## Gruppi Telegram
 
 * [Open Source Support (by Patryk RzucidIo)](https://t.me/ptkdev_support_italian)
 
