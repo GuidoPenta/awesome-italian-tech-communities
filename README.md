@@ -12,31 +12,52 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## Gruppi Telegram
 
-* [Open Source Support (by Patryk RzucidIo)](https://t.me/ptkdev_support_italian)
+* [Carriere e Burocrazia nell'IT](https://t.me/twccarriera)
 
-* [HR feat. ICT (by Lavoro Digitale italia)](https://t.me/c/1358339086)
-
-* [Il salotto dei programmatori (by Lorenzo Casponi)](https://t.me/salottoprogrammatori)
-
-* [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
+* [DevOps Italia](https://t.me/devopsitaly)
 
 * [Gitbar Podcast (by Mauro Murru)](https://t.me/gitbar)
 
 * [DevelopersLife](https://t.me/developerslifechannel)
 
-* [ItalianCoders](https://t.me/italiancoders_community)
-
-* [Rabbit Mq Ita](https://t.me/RabbitMQ_ita)
-
-* [Python Italia](https://t.me/pythonita)
-
-* [Nim Italia](https://t.me/nimitalia)
-
-* [Programmazione italia](https://t.me/programmazioneitalia)
-
 * [Flutter Italia Developers](https://t.me/flutteritdevs)
 
 * [Fullstackish!](https://t.me/tomorrowdevs_group)
+
+* [Go Italia #1](https://t.me/golangita)
+
+* [Go Italia #2](https://t.me/golang_italia)
+
+* [HR feat. ICT (by Lavoro Digitale italia)](https://t.me/c/1358339086)
+
+* [Il salotto dei programmatori (by Lorenzo Casponi)](https://t.me/salottoprogrammatori)
+
+* [ItalianCoders](https://t.me/italiancoders_community)
+
+* [i Programmatori](https://t.me/iprogrammatori)
+
+* [Kubernetes-IT](https://t.me/kubernetes_it)
+
+* [Nim Italia](https://t.me/nimitalia)
+
+* [Open Source Support (by Patryk RzucidIo)](https://t.me/ptkdev_support_italian)
+
+* [Programmazione Italia](https://t.me/programmazioneitalia)
+
+* [Programmatori Italiani](https://t.me/developers0101)
+
+* [Python Italia](https://t.me/pythonita)
+
+* [Rabbit Mq Ita](https://t.me/RabbitMQ_ita)
+
+* [Rust Italia #1](https://t.me/rustlang_it)
+
+* [Rust Italia #2](https://t.me/rust_italia)
+
+* [Sistemistica Italia](https://t.me/sistemistica_italia)
+
+* [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
+
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -49,6 +70,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [gitbar](https://www.gitbar.it/)
 
 * [Schrödinger Hat](https://www.schrodinger-hat.it/)
+
+* [Pensieri in codice](https://pensieriincodice.it/)
 
 * [PointerPodcast](https://pointerpodcast.it/)
 
@@ -78,6 +101,13 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [TheRedCode](https://theredcode.it/)
 
+* [DevMy](https://www.youtube.com/@Devmy)
+
+* [EmmeCiLab - Informatica e Matematica](https://www.youtube.com/@emmecilab)
+
+* [TheRedCode](https://theredcode.it/)
+
+* [DevMy](https://www.youtube.com/@Devmy)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
