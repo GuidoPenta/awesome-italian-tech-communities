@@ -1,7 +1,14 @@
 # Italian tech communities
 Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech italiano. _Enjoy!_
 
-## INDEX
+## Indice
+  * [Gruppi Telegram](#gruppi-telegram)
+  * [Podcast](#podcast)
+  * [YouTube](#youtube)
+  * [Twitch](#twitch)
+  * [Instagram](#instagram)
+  * [Discord](#discord)
+
 
 ## Gruppi Telegram
 
