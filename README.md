@@ -39,7 +39,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Fullstackish!](https://t.me/tomorrowdevs_group)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
 ## Podcast
@@ -57,7 +57,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [La Gilda dei DEVulgatori (Playlist)](https://open.spotify.com/playlist/1sJvhXyU3Tux4F2cMIxb44?si=df9fb2efba3a44f0)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
 ## YouTube 
@@ -76,7 +76,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
 ## Twitch
@@ -88,7 +88,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [DevDreams](https://www.twitch.tv/devup_program)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
 ## Instagram
@@ -98,7 +98,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
 ## Discord
@@ -116,5 +116,5 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [DevDreams](https://discord.gg/QdXC7SuA65)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Back To Top</a></b>
 </div>
