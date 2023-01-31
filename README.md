@@ -65,6 +65,9 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [TomorrowDevs](https://youtube.com/tomorrowdevs)
 
+* [DevDreams](https://www.youtube.com/@dev.dreams)
+
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -74,6 +77,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Fabio Biondi | Twitch | FrontEnd Channel](https://www.twitch.tv/fabio_biondi)
 
 * [NonCompila](https://www.twitch.tv/noncompila)
+
+* [DevDreams](https://www.twitch.tv/devup_program)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -100,6 +105,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Schrodinger's Hat - Open Source Developers community](https://discord.gg/RTXr8A3eFn)
 
 * [Ripsters (mr. RIP)](https://mr.rip/discord)
+
+* [DevDreams](https://discord.gg/QdXC7SuA65)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
