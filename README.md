@@ -8,9 +8,12 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
   * [Twitch](#twitch)
   * [Instagram](#instagram)
   * [Discord](#discord)
+  * [Slack](#slack)
 
 
 ## Gruppi Telegram
+
+* [CTO Mastermind](https://t.me/ctomastermind/)
 
 * [Carriere e Burocrazia nell'IT](https://t.me/twccarriera)
 
@@ -65,6 +68,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## Podcast
 
+* [CTO Podcast (by CTO Mastermind)](https://www.ctopodcast.it/)
+
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
 
 * [gitbar](https://www.gitbar.it/)
@@ -84,6 +89,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 </div>
 
 ## YouTube 
+
+* [CTO Mastermind](https://www.ctomastermind.tv/)
 
 * [Fabio Biondi | Youtube | FrontEnd Tutorials](https://www.youtube.com/c/FabioBiondi)
 
@@ -125,6 +132,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## Instagram
 
+* [CTO Mastermind](https://www.instagram.com/ctomastermind/)
+
 * [DevelopersLife](https://www.instagram.com/developerslifechannel/)
 
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
@@ -150,6 +159,14 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Ripsters (mr. RIP)](https://mr.rip/discord)
 
 * [DevDreams](https://discord.gg/QdXC7SuA65)
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
+## Slack
+
+* [CTO Mastermind](https://www.ctomastermind.it/community/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
