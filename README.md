@@ -107,8 +107,6 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [TheRedCode](https://theredcode.it/)
 
-* [DevMy](https://www.youtube.com/@Devmy)
-
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
