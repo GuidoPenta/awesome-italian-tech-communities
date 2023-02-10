@@ -61,7 +61,6 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
 
-
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -112,6 +111,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [TheRedCode](https://theredcode.it/)
 
+* [GrUSP](https://www.youtube.com/GrUSP)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -137,6 +138,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
 
 * [TheRedCode](https://www.instagram.com/theredcode_it/)
+
+* [GrUSP](https://www.instagram.com/GrUSP_/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -165,6 +168,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 ## Slack
 
 * [CTO Mastermind](https://www.ctomastermind.it/community/)
+
+* [GrUSP](https://slack.grusp.org/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
