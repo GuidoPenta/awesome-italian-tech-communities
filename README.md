@@ -106,8 +106,6 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [EmmeCiLab - Informatica e Matematica](https://www.youtube.com/@emmecilab)
 
-* [TheRedCode](https://theredcode.it/)
-
 * [DevMy](https://www.youtube.com/@Devmy)
 
 * [EmmeCiLab - Informatica e Matematica](https://www.youtube.com/@emmecilab)
@@ -138,7 +136,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
 
-* [TheRedCode](https://theredcode.it/)
+* [TheRedCode](https://www.instagram.com/theredcode_it/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
