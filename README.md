@@ -31,7 +31,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Go Italia #2](https://t.me/golang_italia)
 
-* [HR feat. ICT (by Lavoro Digitale italia)](https://t.me/c/1358339086)
+* [HR feat. ICT (by Lavoro Digitale italia)](https://t.me/+IxwjMC4ytMU4YjRk)
 
 * [Il salotto dei programmatori (by Lorenzo Casponi)](https://t.me/salottoprogrammatori)
 
