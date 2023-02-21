@@ -103,8 +103,6 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [DevDreams](https://www.youtube.com/@dev.dreams)
 
-* [EmmeCiLab - Informatica e Matematica](https://www.youtube.com/@emmecilab)
-
 * [DevMy](https://www.youtube.com/@Devmy)
 
 * [EmmeCiLab - Informatica e Matematica](https://www.youtube.com/@emmecilab)
