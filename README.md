@@ -61,6 +61,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
 
+* [Superhero Valley](https://t.me/+zIcgNjPpYpIzNmU0)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -158,6 +160,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Ripsters (mr. RIP)](https://mr.rip/discord)
 
 * [DevDreams](https://discord.gg/QdXC7SuA65)
+
+* [Superhero Valley](https://discord.com/invite/uPRmhHwMem)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
