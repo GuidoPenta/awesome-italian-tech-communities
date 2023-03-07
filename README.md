@@ -17,6 +17,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Carriere e Burocrazia nell'IT](https://t.me/twccarriera)
 
+* [CloudChampions](https://t.me/cloudchampions/)
+
 * [DevOps Italia](https://t.me/devopsitaly)
 
 * [Gitbar Podcast (by Mauro Murru)](https://t.me/gitbar)
@@ -63,6 +65,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Superhero Valley](https://t.me/+zIcgNjPpYpIzNmU0)
 
+* [UGIdotNET](https://t.me/ugidotnet)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -70,6 +74,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 ## Podcast
 
 * [CTO Podcast (by CTO Mastermind)](https://www.ctopodcast.it/)
+
+* [Cloud Champions](https://www.cloudchampions.tech/cloudtv/2691/Cloud-Champions)
 
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
 
@@ -91,7 +97,9 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## YouTube 
 
-* [CTO Mastermind](https://www.ctomastermind.tv/)
+* [CTO Mastermind](https://www.youtube.com/CloudChampions)
+
+* [CloudChampions](https://www.ctomastermind.tv/)
 
 * [Fabio Biondi | Youtube | FrontEnd Tutorials](https://www.youtube.com/c/FabioBiondi)
 
@@ -113,6 +121,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [GrUSP](https://www.youtube.com/GrUSP)
 
+* [UGIdotNET](https://www.youtube.com/ugidotnet)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -133,6 +143,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [CTO Mastermind](https://www.instagram.com/ctomastermind/)
 
+* [Cloud Champions](https://www.instagram.com/thecloudchamps/)
+
 * [DevelopersLife](https://www.instagram.com/developerslifechannel/)
 
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
@@ -140,6 +152,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [TheRedCode](https://www.instagram.com/theredcode_it/)
 
 * [GrUSP](https://www.instagram.com/GrUSP_/)
+
+* [UGIdotNET] (https://www.instagram.com/ugidotnet/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
