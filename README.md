@@ -159,6 +159,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [DevDay](https://www.instagram.com/devday_it/)
 
+* [DevDay](https://www.instagram.com/devday_it/)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
