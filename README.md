@@ -67,7 +67,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [UGIdotNET](https://t.me/ugidotnet)
 
-* [Blazor Developer Italian](https://t.me/+peIr3tJOKNBmNTQ8)
+* [Blazor Developer Italiani](https://t.me/+peIr3tJOKNBmNTQ8)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
