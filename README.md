@@ -9,7 +9,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
   * [Instagram](#instagram)
   * [Discord](#discord)
   * [Slack](#slack)
-
+  * [Meetup](#meetup)
 
 ## Gruppi Telegram
 
@@ -93,6 +93,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [La Gilda dei DEVulgatori (Playlist)](https://open.spotify.com/playlist/1sJvhXyU3Tux4F2cMIxb44?si=df9fb2efba3a44f0)
 
+* [.NET in pillole](https://www.spreaker.com/show/net-in-pillole)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -126,6 +128,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [UGIdotNET](https://www.youtube.com/ugidotnet)
 
 * [DevDay](https://www.youtube.com/c/DevDay)
+
+* [Andrea Dottor](https://www.youtube.com/@AndreaDottor)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -192,6 +196,20 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [CTO Mastermind](https://www.ctomastermind.it/community/)
 
 * [GrUSP](https://slack.grusp.org/)
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
+## Meetup
+
+* [XeDotNet](https://www.xedotnet.org/)
+
+* [Marca User Group](https://marcausergroup.it/)
+
+* [React Js Milano](https://www.meetup.com/it-IT/react-js-milano/)
+
+* [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/) 
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
