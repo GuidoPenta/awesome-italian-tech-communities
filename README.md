@@ -131,6 +131,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Andrea Dottor](https://www.youtube.com/@AndreaDottor)
 
+* [SecurityCert](https://www.youtube.com/@securitycert)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -165,6 +167,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [DevDay](https://www.instagram.com/devday_it/)
 
+* [SecurityCert](https://www.twitch.tv/securitycert)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -186,6 +190,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [DevDreams](https://discord.gg/QdXC7SuA65)
 
 * [Superhero Valley](https://discord.com/invite/uPRmhHwMem)
+
+* [SecurityCert](https://discord.gg/KWzx6FCucF)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
