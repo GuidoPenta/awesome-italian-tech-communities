@@ -145,6 +145,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [DevDreams](https://www.twitch.tv/devup_program)
 
+* [SecurityCert](https://www.twitch.tv/securitycert)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -166,8 +168,6 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [UGIdotNET](https://www.instagram.com/ugidotnet/)
 
 * [DevDay](https://www.instagram.com/devday_it/)
-
-* [SecurityCert](https://www.twitch.tv/securitycert)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
