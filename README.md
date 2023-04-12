@@ -95,6 +95,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [.NET in pillole](https://www.spreaker.com/show/net-in-pillole)
 
+* [SecurityCert](https://open.spotify.com/show/5Je5mhSrFMLXupKbaGnCqG)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
