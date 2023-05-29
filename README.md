@@ -79,7 +79,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
 
-* [La Locanda Del Tech](https://www.spreaker.com/show/continuous-delivery](https://open.spotify.com/show/15LgWGdHeYb2NifJ5TTec7)
+* [La Locanda Del Tech](https://open.spotify.com/show/15LgWGdHeYb2NifJ5TTec7)
 
 * [CTO Podcast (by CTO Mastermind)](https://www.ctopodcast.it/)
 
@@ -107,7 +107,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Andrea Dottor](https://www.youtube.com/@AndreaDottor)
 
-* [La Locanda Del Tech](https://www.youtube.com/@AndreaDottor](https://www.youtube.com/@lalocandadeltech)
+* [La Locanda Del Tech](https://www.youtube.com/@lalocandadeltech)
 
 * [CloudChampions](https://www.ctomastermind.tv/)
 
