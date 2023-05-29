@@ -79,6 +79,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Continuous Delivery](https://www.spreaker.com/show/continuous-delivery)
 
+* [La Locanda Del Tech](https://www.spreaker.com/show/continuous-delivery](https://open.spotify.com/show/15LgWGdHeYb2NifJ5TTec7)
+
 * [CTO Podcast (by CTO Mastermind)](https://www.ctopodcast.it/)
 
 * [gitbar](https://www.gitbar.it/)
@@ -104,6 +106,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 ## YouTube 
 
 * [Andrea Dottor](https://www.youtube.com/@AndreaDottor)
+
+* [La Locanda Del Tech](https://www.youtube.com/@AndreaDottor](https://www.youtube.com/@lalocandadeltech)
 
 * [CloudChampions](https://www.ctomastermind.tv/)
 
@@ -142,6 +146,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 ## Twitch
 
 * [DevDreams](https://www.twitch.tv/devup_program)
+
+* [La Locanda Del Tech](https://www.twitch.tv/lalocandadeltech)
 
 * [Fabio Biondi | Twitch | FrontEnd Channel](https://www.twitch.tv/fabio_biondi)
 
