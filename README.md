@@ -109,9 +109,9 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [La Locanda Del Tech](https://www.youtube.com/@lalocandadeltech)
 
-* [CloudChampions](https://www.ctomastermind.tv/)
+* [CloudChampions](https://www.youtube.com/CloudChampions)
 
-* [CTO Mastermind](https://www.youtube.com/CloudChampions)
+* [CTO Mastermind](https://www.ctomastermind.tv/) 
 
 * [DevDay](https://www.youtube.com/c/DevDay)
 
