@@ -123,6 +123,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Fabio Biondi | Youtube | FrontEnd Tutorials](https://www.youtube.com/c/FabioBiondi)
 
+* [@fcamuso](https://www.youtube.com/@fcamuso)
+
 * [GrUSP](https://www.youtube.com/GrUSP)
   
 * [NonCompila](https://www.youtube.com/@noncompila)
