@@ -141,6 +141,9 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [UGIdotNET](https://www.youtube.com/ugidotnet)
 
+* [Giuseppe Funicello](https://www.youtube.com/@giuppidev)
+
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
