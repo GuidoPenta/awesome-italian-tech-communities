@@ -23,6 +23,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [DevelopersLife](https://t.me/developerslifechannel)
 
+* [DevMarche](https://t.me/+j-h3ljrMZV8zZmVk)
+
 * [DevOps Italia](https://t.me/devopsitaly)
 
 * [Flutter Italia Developers](https://t.me/flutteritdevs)
@@ -221,6 +223,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 </div>
 
 ## Meetup
+
+* [DevMarche](https://dev.marche.it/)
 
 * [Marca User Group](https://marcausergroup.it/)
 
