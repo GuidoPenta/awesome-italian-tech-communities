@@ -106,6 +106,10 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Ciao, Internet! con Matteo Flora](https://open.spotify.com/show/5q7jh01YLFtru7iqUlj6lu)
 
 * [Algoritmi - Datapizza](https://open.spotify.com/show/6TMBvIx2tWVA8AEPDU027j)
+
+* [Pillole di bit](https://www.pilloledib.it/)
+
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
