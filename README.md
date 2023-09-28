@@ -109,6 +109,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Pillole di bit](https://www.pilloledib.it/)
 
+* [Il podcast di Marco's Box](https://podcasters.spotify.com/pod/show/marcosbox)
+
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
