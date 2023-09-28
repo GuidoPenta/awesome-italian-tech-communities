@@ -101,6 +101,17 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Storie di Developers](https://open.spotify.com/show/5rDJu3qScB9YR5yZtgjm62?si=c189ddf7f1074756)
 
+* [DataKnightmare: L'algoritmico è politico](https://dataknightmare.eu/)
+
+* [Ciao, Internet! con Matteo Flora](https://open.spotify.com/show/5q7jh01YLFtru7iqUlj6lu)
+
+* [Algoritmi - Datapizza](https://open.spotify.com/show/6TMBvIx2tWVA8AEPDU027j)
+
+* [Pillole di bit](https://www.pilloledib.it/)
+
+* [Il podcast di Marco's Box](https://podcasters.spotify.com/pod/show/marcosbox)
+
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -144,6 +155,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [UGIdotNET](https://www.youtube.com/ugidotnet)
 
 * [Giuseppe Funicello](https://www.youtube.com/@giuppidev)
+
+* [Christian Varisco](https://www.youtube.com/@christianvarisco)
 
 
 <div align="right">
