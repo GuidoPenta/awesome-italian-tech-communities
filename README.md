@@ -101,6 +101,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Storie di Developers](https://open.spotify.com/show/5rDJu3qScB9YR5yZtgjm62?si=c189ddf7f1074756)
 
+* [DataKnightmare: L'algoritmico è politico](https://dataknightmare.eu/)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
