@@ -145,6 +145,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Giuseppe Funicello](https://www.youtube.com/@giuppidev)
 
+* [Christian Varisco](https://www.youtube.com/@christianvarisco)
+
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
