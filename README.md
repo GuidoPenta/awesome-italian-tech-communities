@@ -168,6 +168,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [MorroLinux](https://www.youtube.com/@morrolinux)
 
+* [Andrea Pollini](https://www.youtube.com/@ProfAndreaPollini)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
