@@ -160,6 +160,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Edoardo Dusi](https://www.youtube.com/@edodusi)
 
+* [DevLeonardo](https://www.youtube.com/c/devleonardo)
+
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
