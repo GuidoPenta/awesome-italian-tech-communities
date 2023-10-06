@@ -158,6 +158,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Christian Varisco](https://www.youtube.com/@christianvarisco)
 
+* [Edoardo Dusi](https://www.youtube.com/@edodusi)
+
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
