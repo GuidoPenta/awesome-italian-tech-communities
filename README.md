@@ -166,6 +166,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Fabio Biondi](https://www.youtube.com/@FabioBiondi)
 
+* [MorroLinux](https://www.youtube.com/@morrolinux)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
