@@ -158,6 +158,17 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Christian Varisco](https://www.youtube.com/@christianvarisco)
 
+* [Edoardo Dusi](https://www.youtube.com/@edodusi)
+
+* [DevLeonardo](https://www.youtube.com/c/devleonardo)
+
+* [Piero Savastano](https://www.youtube.com/@PieroSavastano)
+
+* [Fabio Biondi](https://www.youtube.com/@FabioBiondi)
+
+* [MorroLinux](https://www.youtube.com/@morrolinux)
+
+* [Andrea Pollini](https://www.youtube.com/@ProfAndreaPollini)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
