@@ -111,6 +111,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Il podcast di Marco's Box](https://podcasters.spotify.com/pod/show/marcosbox)
 
+* [Cloud Champions](https://www.cloudchampions.tech/cloudtv/2691/Cloud-Champions) 
+
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -169,6 +171,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [MorroLinux](https://www.youtube.com/@morrolinux)
 
 * [Andrea Pollini](https://www.youtube.com/@ProfAndreaPollini)
+
+* [Cloud Champions](https://www.cloudchampions.tech/video/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
