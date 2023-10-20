@@ -3,6 +3,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## Indice
   * [Gruppi Telegram](#gruppi-telegram)
+  * [Portale con tutti gli eventi tech in Italia](#portale-con-tutti-gli-eventi-tech-in-italia)
   * [Podcast](#podcast)
   * [YouTube](#youtube)
   * [Twitch](#twitch)
@@ -70,6 +71,14 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [UGIdotNET](https://t.me/ugidotnet)
 
 * [We are Dev (by Fabio Biondi)](https://t.me/we_are_devs)
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
+## Portale con tutti gli eventi Tech in Italia
+
+* https://eventitech.it/
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
