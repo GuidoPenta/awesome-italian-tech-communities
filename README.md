@@ -174,6 +174,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Cloud Champions](https://www.cloudchampions.tech/video/)
 
+* [La Brigata dei Geek Estinti](https://www.youtube.com/channel/UC5yquqmAAdbB9bPkUISRimA)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
