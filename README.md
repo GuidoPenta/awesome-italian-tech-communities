@@ -185,6 +185,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [La Brigata dei Geek Estinti](https://www.youtube.com/channel/UC5yquqmAAdbB9bPkUISRimA)
 
+* [Tommaso Allevi](https://www.youtube.com/@tommasoallevi4223)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
