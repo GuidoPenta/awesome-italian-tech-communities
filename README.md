@@ -38,6 +38,12 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Go Italia #2](https://t.me/golang_italia)
 
+* [Golang Torino](https://t.me/golangtorino)
+
+* [Golang Milano](https://t.me/+C1dv468eOAliODQ0)
+
+* [Golang Roma](https://t.me/golangroma)
+
 * [HR feat. ICT (by Lavoro Digitale italia)](https://t.me/+IxwjMC4ytMU4YjRk)
 
 * [i Programmatori](https://t.me/iprogrammatori)
@@ -259,6 +265,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [GrUSP](https://slack.grusp.org/)
 
+* [Gophers Italy](https://gophers.slack.com)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -274,6 +282,14 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [React Js Milano](https://www.meetup.com/it-IT/react-js-milano/)
 
 * [XeDotNet](https://www.xedotnet.org/)
+
+* [Golang Torino](https://www.meetup.com/golang-torino/)
+
+* [Golang Milano](https://www.meetup.com/Golang-Milano/)
+
+* [Golang Roma](https://www.meetup.com/it-IT/golangroma/)
+
+* [Kubernetes Milano](https://www.meetup.com/kubernetes-milano/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
