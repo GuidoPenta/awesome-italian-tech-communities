@@ -22,6 +22,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
  
 * [CTO Mastermind](https://t.me/ctomastermind/)
 
+* [Data Engineering Italia](https://t.me/data_engineering_italia)
+
 * [DevelopersLife](https://t.me/developerslifechannel)
 
 * [DevMarche](https://t.me/+j-h3ljrMZV8zZmVk)
