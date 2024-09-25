@@ -246,6 +246,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [DevHub Italia | Informatica](https://discord.gg/e4KbstNqtk)
 
 * [Italian Coders Group](https://top.gg/servers/500396398324350989/join)
+  
+* [Italia JS](https://discord.gg/CrHrweEaUg)
 
 * [PtkDev (by Patryk RzucidIo)](http://discord.ptkdev.io/)
 
