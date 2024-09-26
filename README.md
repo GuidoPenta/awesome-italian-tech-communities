@@ -289,6 +289,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [XeDotNet](https://www.xedotnet.org/)
 
+* [Coding Bunker Milano](https://www.meetup.com/it-IT/coding-bunker/)
+
 * [Golang Torino](https://www.meetup.com/golang-torino/)
 
 * [Golang Milano](https://www.meetup.com/Golang-Milano/)
