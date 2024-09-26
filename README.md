@@ -185,8 +185,6 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Piero Savastano](https://www.youtube.com/@PieroSavastano)
 
-* [Fabio Biondi](https://www.youtube.com/@FabioBiondi)
-
 * [MorroLinux](https://www.youtube.com/@morrolinux)
 
 * [Andrea Pollini](https://www.youtube.com/@ProfAndreaPollini)
