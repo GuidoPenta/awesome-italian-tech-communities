@@ -32,7 +32,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Flutter Italia Developers](https://t.me/flutteritdevs)
 
-* [Fullstackish!](https://t.me/tomorrowdevs_group)
+* [Fullstackish!]((https://t.me/tomorrowdevs))
 
 * [Gitbar Podcast (by Mauro Murru)](https://t.me/gitbar)
 
