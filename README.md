@@ -143,7 +143,9 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [CloudChampions](https://www.youtube.com/CloudChampions)
 
-* [CTO Mastermind](https://www.ctomastermind.tv/) 
+* [CTO Mastermind](https://www.ctomastermind.tv/)
+
+* [Improving Code](https://www.youtube.com/@ImprovingCode)
 
 * [DevDay](https://www.youtube.com/c/DevDay)
 
