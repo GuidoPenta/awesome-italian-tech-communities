@@ -92,6 +92,14 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
+## Portale con tutti gli eventi Tech in Europa (e online)
+
+* https://dev.events/EU
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## Podcast
 
 * [Cloud Champions](https://www.cloudchampions.tech/cloudtv/2691/Cloud-Champions)
@@ -294,6 +302,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Golang Roma](https://www.meetup.com/it-IT/golangroma/)
 
 * [Kubernetes Milano](https://www.meetup.com/kubernetes-milano/)
+
+* [Open Source Saturday Milano](https://www.meetup.com/it-IT/open-source-saturday-milano/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
