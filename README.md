@@ -138,6 +138,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Cloud Champions](https://www.cloudchampions.tech/cloudtv/2691/Cloud-Champions) 
 
+* [Intervista Pythonista](https://intervistapythonista.com/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -306,6 +307,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Kubernetes Milano](https://www.meetup.com/kubernetes-milano/)
 
 * [Open Source Saturday Milano](https://www.meetup.com/it-IT/open-source-saturday-milano/)
+
+* [PyMI - Python Milano](https://www.meetup.com/it-IT/python-milano/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
