@@ -268,6 +268,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Superhero Valley](https://discord.com/invite/uPRmhHwMem)
 
+* [Firenze.dev](https://discord.com/invite/DJ5gpQtqMH)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -309,6 +311,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Open Source Saturday Milano](https://www.meetup.com/it-IT/open-source-saturday-milano/)
 
 * [PyMI - Python Milano](https://www.meetup.com/it-IT/python-milano/)
+
+* [Firenze.dev](https://firenze.dev/)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
