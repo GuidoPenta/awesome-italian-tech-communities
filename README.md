@@ -56,6 +56,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Kubernetes-IT](https://t.me/kubernetes_it)
 
+* [La Locanda del Tech](https://t.me/+mqQJQ9BqKOViMmVk)
+
 * [Nim Italia](https://t.me/nimitalia)
 
 * [Open Source Support (by Patryk RzucidIo)](https://t.me/ptkdev_support_italian)
