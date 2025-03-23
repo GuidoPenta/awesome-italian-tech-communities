@@ -28,7 +28,9 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [DevMarche](https://t.me/+j-h3ljrMZV8zZmVk)
 
-* [DevOps Italia](https://t.me/devopsitaly)
+* [DevOps Italia](https://t.me/devopsitalia)
+
+* [DevOps Italy](https://t.me/devopsitaly)
 
 * [Flutter Italia Developers](https://t.me/flutteritdevs)
 
