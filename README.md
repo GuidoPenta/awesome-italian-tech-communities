@@ -69,6 +69,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Programmatori Italiani](https://t.me/developers0101)
 
 * [Python Italia](https://t.me/pythonita)
+  
+* [Schroedinger Hat](https://t.me/hatters25)
 
 * [Rabbit Mq Ita](https://t.me/RabbitMQ_ita)
 
