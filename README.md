@@ -208,6 +208,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Tommaso Allevi](https://www.youtube.com/@tommasoallevi4223)
 
+* [Schroedinger Hat](https://www.youtube.com/c/Schr%C3%B6dingerHat)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
