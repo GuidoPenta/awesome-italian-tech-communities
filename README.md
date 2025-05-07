@@ -69,6 +69,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Programmatori Italiani](https://t.me/developers0101)
 
 * [Python Italia](https://t.me/pythonita)
+  
+* [Schroedinger Hat](https://t.me/hatters25)
 
 * [Rabbit Mq Ita](https://t.me/RabbitMQ_ita)
 
@@ -207,6 +209,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [La Brigata dei Geek Estinti](https://www.youtube.com/channel/UC5yquqmAAdbB9bPkUISRimA)
 
 * [Tommaso Allevi](https://www.youtube.com/@tommasoallevi4223)
+
+* [Schroedinger Hat](https://www.youtube.com/c/Schr%C3%B6dingerHat)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
