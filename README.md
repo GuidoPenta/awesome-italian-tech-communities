@@ -278,6 +278,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Firenze.dev](https://discord.com/invite/DJ5gpQtqMH)
 
+* [Roma.js](https://discord.gg/qTD4jfh9Dw)
+
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
@@ -321,6 +323,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [PyMI - Python Milano](https://www.meetup.com/it-IT/python-milano/)
 
 * [Firenze.dev](https://firenze.dev/)
+
+* [Roma.js](https://romajs.org)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
