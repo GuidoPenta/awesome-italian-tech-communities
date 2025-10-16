@@ -14,6 +14,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 ## Gruppi Telegram
 
+* [Arkemis Community](https://t.me/+RkKbRhGLAA9MHXzf)
+
 * [Blazor Developer Italiani](https://t.me/+peIr3tJOKNBmNTQ8)
 
 * [Carriere e Burocrazia nell'IT](https://t.me/twccarriera)
@@ -255,6 +257,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 </div>
 
 ## Discord
+
+* [Arkemis Community](https://discord.gg/zAjmZYHXp7)
 
 * [Community ItalianCoders](https://s.italiancoders.it/discord)
 
