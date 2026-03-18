@@ -26,7 +26,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [Data Engineering Italia](https://t.me/data_engineering_italia)
 
-* [Dataskew.io - Data Engineering Leanring community](https://t.me/+sJZ1e0UAw1U4NWRk)
+* [Dataskew.io - Data Engineering Learning community](https://t.me/+sJZ1e0UAw1U4NWRk)
 
 * [DevelopersLife](https://t.me/developerslifechannel)
 
