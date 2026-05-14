@@ -10,6 +10,7 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
   * [Instagram](#instagram)
   * [Discord](#discord)
   * [Slack](#slack)
+  * [Matrix](#matrix)
   * [Meetup](#meetup)
 
 ## Gruppi Telegram
@@ -153,6 +154,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Cloud Champions](https://www.cloudchampions.tech/cloudtv/2691/Cloud-Champions) 
 
 * [Intervista Pythonista](https://intervistapythonista.com/)
+
+* [I use Yocto btw](https://linktr.ee/iuseyoctobtw)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -305,6 +308,15 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
+
+## Matrix
+
+* [I use Yocto btw](https://matrix.to/#/#iuseyoctobtw:matrix.org)
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 
 ## Meetup
 
