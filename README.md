@@ -122,6 +122,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) - Libro TypeScript gratuito e open source, dai fondamenti ai concetti avanzati.
+
 ## Podcast
 
 * [Cloud Champions](https://www.cloudchampions.tech/cloudtv/2691/Cloud-Champions)
