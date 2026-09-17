@@ -2,16 +2,18 @@
 Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech italiano. _Enjoy!_
 
 ## Indice
-  * [Gruppi Telegram](#gruppi-telegram)
-  * [Portale con tutti gli eventi tech in Italia](#portale-con-tutti-gli-eventi-tech-in-italia)
-  * [Podcast](#podcast)
-  * [YouTube](#youtube)
-  * [Twitch](#twitch)
-  * [Instagram](#instagram)
-  * [Discord](#discord)
-  * [Slack](#slack)
-  * [Matrix](#matrix)
-  * [Meetup](#meetup)
+* [Gruppi Telegram](#gruppi-telegram)
+* [Portale con tutti gli eventi Tech in Italia](#portale-con-tutti-gli-eventi-tech-in-italia)
+* [Portale con tutti gli eventi Tech in Europa (e online)](#portale-con-tutti-gli-eventi-tech-in-europa-e-online)
+* [Forum e Iniziative Open Source](#forum-e-iniziative-open-source)
+* [Podcast](#podcast)
+* [YouTube](#youtube)
+* [Twitch](#twitch)
+* [Instagram](#instagram)
+* [Discord](#discord)
+* [Slack](#slack)
+* [Matrix](#matrix)
+* [Meetup](#meetup)
 
 ## Gruppi Telegram
 
@@ -111,9 +113,14 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
-## Portale dedicato a progetti e communities open-source in italia
+## Forum e Iniziative Open Source
 
 * [Italia Open Source](https://italiaopensource.com/)
+* [Cloud Ops Italia](https://cloudopsitalia.it)
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ## Podcast
 
