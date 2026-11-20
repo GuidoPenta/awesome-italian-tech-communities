@@ -148,6 +148,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 
 * [SecurityCert](https://open.spotify.com/show/5Je5mhSrFMLXupKbaGnCqG)
 
+* [Speck&Tech podcast](https://open.spotify.com/show/5eNLWsNiXBCayUT9hcAJ6F)
+
 * [Storie di Developers](https://open.spotify.com/show/5rDJu3qScB9YR5yZtgjm62?si=c189ddf7f1074756)
 
 * [DataKnightmare: L'algoritmico è politico](https://dataknightmare.eu/)
@@ -231,6 +233,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Tommaso Allevi](https://www.youtube.com/@tommasoallevi4223)
 
 * [Schroedinger Hat](https://www.youtube.com/c/Schr%C3%B6dingerHat)
+  
+* [Speck&Tech events](https://youtube.com/@speckandtech)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -269,6 +273,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [TomorrowDevs](https://www.instagram.com/tomorrowdevs/)
 
 * [UGIdotNET](https://www.instagram.com/ugidotnet/)
+  
+* [Speck&Tech](https://instagram.com/speckandtech)
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -356,6 +362,8 @@ Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech
 * [Firenze.dev](https://firenze.dev/)
 
 * [Roma.js](https://romajs.org)
+
+* [Speck&Tech - Trentino](http://speckand.tech) 
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
